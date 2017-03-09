@@ -415,27 +415,27 @@
         {
             name: "CSharp",
             type: "Object oriented programming language",
-            image_url: "http://sdtimes.com/wp-content/uploads/2015/04/0423.sdt-csharp7.jpg",
+            image_url: "resourses/0423.sdt-csharp7.jpg",
             description: "A multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. It was developed by Microsoft within its .NET initiative and later approved as a standard by Ecma (ECMA-334) and ISO (ISO/IEC 23270:2006). C# is one of the programming languages designed for the Common Language Infrastructure. C# is a general-purpose, object-oriented programming language. Its development team is led by Anders Hejlsberg. The most recent version is C# 7.0 which was released in 2017 along with Visual Studio 2017."
         },
         {
             name: "JavaScript",
             type: "Scripting programming language",
-            image_url: "https://udemy-images.udemy.com/course/750x422/495484_385c_3.jpg",
+            image_url: "resourses/495484_385c_3.jpg",
             description: "a high-level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, JavaScript is one of the three core technologies of World Wide Web content production; the majority of websites employ it, and all modern Web browsers support it without the need for plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage, or graphics facilities, relying for these upon the host environment in which it is embedded."
             
         },
         {
             name: "HTML",
             type: "Markup language",
-            image_url: "http://www.coderomeos.org/images/categories/HTML.png",
+            image_url: "resourses/HTML.png",
             description: "HyperText Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS), and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. Web browsers receive HTML documents from a webserver or from local storage and render them into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document."
             
         },
         {
             name: "CSS",
             type: "Style sheet language",
-            image_url: "https://www.christianheilmann.com/wp-content/uploads/2016/10/css-is-awesome-700x375.jpg",
+            image_url: "resourses/css-is-awesome-700x375.jpg",
             description: "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language. Although most often used to set the visual style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any XML document, including plain XML, SVG and XUL, and is applicable to rendering in speech, or on other media. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications."            
         }
     ];
